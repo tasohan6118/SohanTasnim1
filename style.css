@@ -1,0 +1,21 @@
+p
+{
+color:blue;
+}
+.second-para{
+    color:red;
+}
+#third-paragraph{
+    color:black;
+}
+.navigation-list{
+    diplay:flex;
+    margin:4px;
+}
+li{
+    list-style-type: ;
+}
+@media only screen(max-width:360px).navigation-list{
+    diplay:flex;
+    flex-direction:column;
+    margin:4px;
